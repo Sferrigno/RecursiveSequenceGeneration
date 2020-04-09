@@ -1,4 +1,4 @@
-# RecursiveSequenceGeneration-
+# RecursiveSequenceGeneration
 
 This is the data for Recursive sequence generation in monkeys, children, and native Amazonians
 
