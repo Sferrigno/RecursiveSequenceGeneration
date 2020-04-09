@@ -1,6 +1,6 @@
 # RecursiveSequenceGeneration
 
-This is the data for Recursive sequence generation in monkeys, children, and native Amazonians
+This is the data for "Recursive sequence generation in monkeys, children, and native Amazonians"
 
 Authors: Stephen Ferrigno, Samuel J. Cheyette, Steven T. Piantadosi, Jessica F. Cantlon
 
